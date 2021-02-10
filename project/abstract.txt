@@ -1,0 +1,20 @@
+Velagapudi Ramakrishna Siddhartha Engineering CollegeDepartment of Information Technology
+Class: 3rdYear Section: A Year: 2020-2021
+Title of the Project
+ONLINE VIDEO CONFERENCING WITH REPORT GENERATION
+Motivation:
+Currently, many organizations started using conferencing apps to connect students and teachers, also to conduct online classes. In the current pandemic, applications like google meet, zoom became a necessity for educational institutions to conduct online lectures. 
+
+Problem Description:
+But there are some drawbacks from these applications. It may not allow more than 100 participants and does not support automatic attendance management or to create reports. An educational institute may need a customized video conferencing system for hassle free online classes and many other.
+Social Benefits:
+	The educational system is most important part of the society which is needed to be taken care of. So through this web application, students and lecturers benefit a lot and can conduct hassle free online classes and teachers can focus on delivering the classes.It increases student’s learning efficiency
+
+Innovation and Uniqueness:
+	During the class, automatic attendance will be posted to the teachers for their respective classes. 
+	Bandwidth optimization
+	Summary and Report for each class and can be referred by the student at any time and much more efficient than watching a recorded session.
+Feasible Solution:
+
+We create an application with mixed features of video conferencing and report generation. Students who miss their classes can see the reports/summary related to the classes conducted on a particular day and can learn easily. Teachers can login through, create links for their respective classes and share it with their students. Students can join the class with their respective institution mail ids provided. During the class, automatic attendance will be posted to the teachers for their respective classes. 
+
